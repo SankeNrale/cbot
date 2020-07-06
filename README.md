@@ -1,7 +1,7 @@
 # cbot
 A web implementation of a chatbot
 
-    ![alt text](https://github.com/SankeNrale/cbot/blob/master/cbot.png
+    ![alt text](https://github.com/sankenrale/cbot/blob/master/cbot.png?raw=true)
 
 
 
