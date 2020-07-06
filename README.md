@@ -2,7 +2,7 @@
 A web implementation of a chatbot
 
 
-##Clone the Repository
+## Clone the Repository
 
     git clone https://www.github.com/sankenrale/cbot
 
@@ -17,7 +17,7 @@ Local Setup:
        Ensure that Python, Flask, SQLAlchemy, and ChatterBot are installed
        (either manually, or run pip install -r requirements.txt) in the cbot folder.
                             
-Run app.py with 
+## Run app.py with 
        
        python app.py.
        
