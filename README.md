@@ -1,7 +1,9 @@
 # cbot
 A web implementation of a chatbot
 
-https://github.com/SankeNrale/cbot/blob/master/cbot.png
+![alt text](https://github.com/SankeNrale/cbot/blob/master/cbot.png
+
+
 
 ## Clone the Repository
 
