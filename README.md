@@ -21,6 +21,8 @@ Local Setup:
        
        python app.py.
        
+When you press CTRL + C after running app.py you can see the link on the web.
+       
 The demo will be live at 
        
     http://localhost:5000/ 
