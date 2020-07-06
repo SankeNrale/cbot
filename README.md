@@ -33,3 +33,7 @@ The demo will be live at
 or       
     
     http://127.0.0.1:5000/
+    
+### To see the kind of conversations you can have with cbot:
+
+https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/english
