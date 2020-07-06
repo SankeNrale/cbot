@@ -13,4 +13,12 @@ Run app.py with
        
 The demo will be live at 
        
-       http://localhost:5000/
+    http://localhost:5000/ 
+       
+or       
+    
+    http://127.0.0.1:5000/
+       
+
+       
+       
