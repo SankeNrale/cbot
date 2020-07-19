@@ -4,12 +4,12 @@ A web implementation of a chatbot
 ![alt text](https://github.com/sankenrale/cbot/blob/master/cbot.jpg?raw=true)
 
 
-
+## Setup
 ## Clone the Repository
 
     git clone https://www.github.com/sankenrale/cbot
 
-opitional:
+optional:
 create virtual environment
        
        virtutalenv cbot
