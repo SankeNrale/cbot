@@ -1,5 +1,11 @@
 # cbot
-A web implementation of a chatbot
+## This is the Term Project of
+* 185053 Sanket Nagrale 
+* 185060 Shubhang Bhagat 
+* 185056 Abhishek Kapoor 
+
+
+##A web implementation of a chatbot
 
 ![alt text](https://github.com/sankenrale/cbot/blob/master/cbot.jpg?raw=true)
 
