@@ -5,7 +5,7 @@
 ### * 185056 Abhishek Kapoor 
 
 
-##A web implementation of a chatbot
+## A web implementation of a chatbot
 
 ![alt text](https://github.com/sankenrale/cbot/blob/master/cbot.jpg?raw=true)
 
@@ -15,7 +15,7 @@
 
     git clone https://www.github.com/sankenrale/cbot
 
-optional:
+optional:Lists
 create virtual environment
        
        virtutalenv cbot
